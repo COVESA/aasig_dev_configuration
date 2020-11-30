@@ -1,0 +1,6 @@
+// Copyright (c) 2020 TietoEVRY. All rights reserved.
+
+hidl_package_root {
+    name: "vendor.tieto.hardware",
+    path: "vendor/tieto/interfaces"
+}
